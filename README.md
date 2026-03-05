@@ -1,8 +1,10 @@
 --------------------------------------------------
-My own "Sheet-Assiut-Juniors-Phase-2" solutions
+✨ My own "Sheet-Assiut-Juniors-Phase-2" solutions
 --------------------------------------------------
-Link sheet -> https://vjudge.net/group/icpcassiutjunuiorsphase2
+📌 Link sheet -> https://vjudge.net/group/icpcassiutjunuiorsphase2
 ---------------------------------------------------------------
+📘 TOPICS
+----------
 
 -Dynamic Programming (DP):
 --> [Basics , styles (0/1 , Knapsack , LIS , LCS ,CC) , consecutive ,nested , general , Counting , Building Output , Bitmask , Digit]
